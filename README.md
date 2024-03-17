@@ -33,22 +33,16 @@ This project is about the gym requirements of the students by paying the amount 
 for their exercise.They can easily register without any problem in this website.
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
 -> We are using html,css and javascript in our solution.
 -> We created this website very comfortably that any one can easliy register our gym website.
-->      
+-> References of many images and other gym websites are used for back end of this website.     
 
 ## Techstacks used 
 `HTML` , `JAVASCRIPT` , `CSS` 
 
 ## How to run locally 
-explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
-```
-npm install
+step 1 : go the repo 
+step 2 : 
 npm start
 ```
 
