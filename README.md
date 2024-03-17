@@ -41,13 +41,11 @@ for their exercise.They can easily register without any problem in this website.
 `HTML` , `JAVASCRIPT` , `CSS` 
 
 ## How to run locally 
-step 1 : go the repo 
-step 2 : 
-npm start
-```
-
+step 1 : go the repo (https://github.com/Ariefshaik66/hack)
+step 2 : There we have posted the links for our codes and the website
+step 3 : from there u can access the link to our website
 # What's next ?
- tell the future plan that you have for the project , tell the updates that you would wish to bring
+ In future we provide all the protein and essiential nutrients 
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.# hackathon
