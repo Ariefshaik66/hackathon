@@ -1,8 +1,8 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com">Gym club Website </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+     <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
@@ -27,20 +27,22 @@ mention the description here , mention what does your prototype does  , make sur
 </div>
 
 ## Problem statement 
-mention the problem , and mention the severity of the problem and why we need solution for that  , mention which gorup of people face that problem
+Gym fitness website used for the the students in the hostel for fitness. 
 ## About the project
-mention few details and features of the project , how it is solving the problem 
+This project is about the gym requirements of the students by paying the amount of money for their gym.Applied members  can come to gym at anytime
+for their exercise.They can easily register without any problem in this website.
 
 ## Technical implemntaion 
 mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
 - use bullets to explain
 - be consise and specific
 - explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+-> We are using html,css and javascript in our solution.
+-> We created this website very comfortably that any one can easliy register our gym website.
+->      
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`HTML` , `JAVASCRIPT` , `CSS` 
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
